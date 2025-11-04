@@ -6,7 +6,7 @@ id : string; nom: string; email: string;
 interface visiteurs extends Personne {
 
 secteur : "Nord" | "Est" | "Sud" | "Ouest "|"Paris " ;
-vehiculePersonne: Boolean ;
+vehiculePersonnel: Boolean ;
 
 }  
 

@@ -1,6 +1,5 @@
 const BATIMENT = 'GSB';
 
-
 let salle = 'salle de reunion';
 console.log(salle);
 
